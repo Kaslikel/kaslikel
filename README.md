@@ -60,3 +60,5 @@ Based in London, working on scalable digital solutions.
 ## Contact
 
 Open to collaboration and new p
+
+![AI Banner](banner.png)
